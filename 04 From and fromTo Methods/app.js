@@ -14,7 +14,7 @@
 
 
 gsap.fromTo(
-    ".box",
+    ".box2",
     { y: 200, opacity: 0 },
     {
       opacity: 1,
